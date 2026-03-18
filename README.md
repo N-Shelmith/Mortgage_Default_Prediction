@@ -4,7 +4,6 @@ I built a Probability of Default (PD) model using mortgage loan data to estimate
 
 The analysis reflects a typical credit risk workflow, where loan-level performance data is transformed into a **portfolio-level risk model** to support lending decisions and risk monitoring.
 
----
 
 ## Scope of Work
 
@@ -15,7 +14,6 @@ The analysis reflects a typical credit risk workflow, where loan-level performan
 - Segmented the portfolio into **risk deciles**  
 - Identified key drivers of mortgage default risk  
 
----
 
 ## Model Performance
 
@@ -23,13 +21,11 @@ The analysis reflects a typical credit risk workflow, where loan-level performan
 
 The model demonstrates strong discriminatory power, correctly ranking defaulted loans above non-defaulted loans approximately **81.7% of the time**.
 
----
 
 ## Key Insight
 
 Default rates increase consistently across risk deciles, indicating that the model effectively differentiates between low-risk and high-risk borrowers.
 
----
 
 ## Tools
 
@@ -38,7 +34,6 @@ DuckDB SQL
 Pandas  
 Scikit-learn  
 
----
 
 ## Notebook
 
@@ -46,7 +41,6 @@ Full analysis and implementation:
 
 `mortgage_default_risk_model.ipynb`
 
----
 
 ## Author
 
