@@ -29,17 +29,17 @@ Default rates increase consistently across risk deciles, indicating that the mod
 
 ## Tools
 
-Python  
-DuckDB SQL  
-Pandas  
-Scikit-learn  
+- Python  
+- DuckDB SQL  
+- Pandas  
+- Scikit-learn  
 
 
 ## Notebook
 
 Full analysis and implementation:
 
-`mortgage_default_risk_model.ipynb`
+`Mortgage_Default_Prediction.ipynb`
 
 
 ## Author
